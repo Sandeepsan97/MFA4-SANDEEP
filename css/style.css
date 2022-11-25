@@ -1,0 +1,139 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600&display=swap');
+
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    font-size: 18px;
+  
+}
+
+#container1{
+    background-image: url(../images/image-header.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.logot{
+    color: white;
+    font-weight: bolder;
+    position: relative;
+    left: 20px;
+    top: 10px;
+}
+ul li a{
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    
+    
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+   justify-content: flex-end;
+   position: relative;
+   right: 110px;
+   
+}
+#contact{
+    border: none solid white;
+    color: black;
+}
+.logot2{
+    color: black;
+    position: relative;
+    left: 1390px;
+    bottom: 21px;
+    border: none solid white;
+    width: 72px;
+    height: 25px;
+    background-color: white;
+    border-radius: 20px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 900;
+}
+.logot3{
+    color: white;
+    font-weight: bolder;
+    position: relative;
+    left: 400px;
+    top: 220px;
+    font-size: 47px;
+    word-spacing: 30px;
+    letter-spacing: 10px;
+}
+.arrow{
+    position: relative;
+    left: 750px;
+    top: 280px;
+    
+}
+.group1{
+   width: 730px;
+   height: 600px;
+   position: relative;
+   left: 250px;
+   font-size: 18px;
+   top:200px
+  
+
+}
+.group4{
+    width: 730px;
+    height: 600px;
+    position: relative;
+    font-size: 18px;
+    left: 897px;
+    bottom: 1120px;
+   
+   
+   
+ }
+ 
+.img1{
+    width: 730px;
+    height: 600px;
+    position: relative;
+    left: 757px;
+    bottom: 600px;
+ 
+ }
+ .img2{
+    width: 758px;
+    height: 650px;
+    position: relative;
+    bottom: 605px;
+ }
+
+ .img3{
+    width: 758px;
+    height: 600px;
+    position: relative;
+    bottom: 1215px;
+ }
+
+ .img4{
+    width: 730px;
+    height: 600px;
+    position: relative;
+    left: 757px;
+    bottom: 1820px;
+   
+   
+ 
+ }
+ .pa1{
+   color:  hsl(212, 27%, 19 %);
+ }
+ .pa2{
+    color:hsl(213, 9%, 39%);
+ }
+ .pa3{
+    color:  hsl(212, 27%, 19 %);
+ }
+
